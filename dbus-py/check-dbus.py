@@ -1,3 +1,7 @@
+#
+# http://stackoverflow.com/questions/469243/how-can-i-listen-for-usb-device-inserted-events-in-linux-in-python
+#
+
 import dbus
 import gobject
 import subprocess
